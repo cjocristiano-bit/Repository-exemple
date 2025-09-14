@@ -1,4 +1,4 @@
-# Repository-exemple
+# Repository-example
 
 README.md para um projeto de simulador de cara ou coroa. Ele é simples, direto e pode ser adaptado para diferentes linguagens (Python, JavaScript, etc).
 
